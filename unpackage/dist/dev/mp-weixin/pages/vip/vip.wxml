@@ -1,0 +1,1 @@
+<view><top vue-id="1" bind:__l="__l"></top><choose vue-id="2" bind:__l="__l"></choose></view>

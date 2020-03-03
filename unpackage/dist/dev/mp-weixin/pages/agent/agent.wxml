@@ -1,0 +1,1 @@
+<view><block wx:if="{{user.vip}}"><view></view></block><block wx:if="{{!user.vip}}"><view class="nobox"><image class="warn_img" src="../../static/tabbar/warn.png" mode></image><view class="_br"></view><text>您不是VIP会员，无法访问该功能</text><button class="nobox_btn" type="primary" data-event-opts="{{[['tap',[['btnBack',['$event']]]]]}}" bindtap="__e">确定</button></view></block></view>

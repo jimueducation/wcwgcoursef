@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "top": "/pages/vip/components/top",
+    "choose": "/pages/vip/components/choose"
+  }
+}

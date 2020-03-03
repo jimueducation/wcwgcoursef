@@ -1,0 +1,108 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/home/home",
+		    "style" : {
+				"navigationBarTitleText": "个人中心"
+			}
+		}
+		,{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "网创微课"
+			}
+		}
+        ,{
+            "path" : "pages/agent/agent",
+            "style" : {
+				"navigationBarTitleText": "代理中心"
+			}
+        }
+        ,{
+            "path" : "pages/download/download",
+            "style" : {
+				"navigationBarTitleText": "APP下载"
+			}
+        }
+        ,{
+            "path" : "pages/vip/vip",
+            "style" : {
+				"navigationBarTitleText": "开通VIP"
+			}
+        }
+        ,{
+		    "path" : "pages/classlist/classlist",
+		    "style" : {
+				"navigationBarTitleText": "课程分类",
+				"enablePullDownRefresh":true,
+				"app-plus":{
+					"scrollIndicator":"none"
+				}
+				
+			}
+		}
+        ,{
+            "path" : "pages/video/video",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/register/register",
+            "style" : {
+				"navigationBarTitleText": "注册页面"
+			}
+        }
+        ,{
+            "path" : "pages/userinfo/userinfo",
+            "style" : {
+				"navigationBarTitleText": "我的信息"
+			}
+        }
+        ,{
+            "path" : "pages/order/order",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#000000"
+	},
+	"tabBar":{
+		"color":"#9E9E9B",
+		"selectedColor":"#FFD332",
+		"backgroundColor":"#FFFFFF",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"text":"网赚课堂",
+				"iconPath":"static/tabbar/home1.png",
+				"selectedIconPath":"static/tabbar/home2.png"
+			},
+			{
+				"pagePath":"pages/agent/agent",
+				"text":"代理中心",
+				"iconPath":"static/tabbar/money1.png",
+				"selectedIconPath":"static/tabbar/money2.png"
+			},
+			{
+				"pagePath":"pages/vip/vip",
+				"text":"开通Vip",
+				"iconPath":"static/tabbar/vip1.png",
+				"selectedIconPath":"static/tabbar/vip2.png"
+			},
+			{
+				"pagePath":"pages/download/download",
+				"text":"app下载",
+				"iconPath":"static/tabbar/phone1.png",
+				"selectedIconPath":"static/tabbar/phone2.png"
+			},
+			{
+				"pagePath":"pages/home/home",
+				"text":"个人中心",
+				"iconPath":"static/tabbar/my1.png",
+				"selectedIconPath":"static/tabbar/my2.png"
+			}
+		]
+	}
+}

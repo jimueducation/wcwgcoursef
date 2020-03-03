@@ -1,0 +1,1 @@
+<view><view class="vip_top"><image class="vip_top_left" src="/static/tabbar/back.png" mode="aspectFill"></image><text class="vip_top_middle">我的vip服务</text></view><view class="vip_top_img"><image style="width:100%;height:200px;" src="/static/img1.png" mode></image></view></view>

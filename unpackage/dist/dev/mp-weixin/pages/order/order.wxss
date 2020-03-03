@@ -1,0 +1,35 @@
+
+.videocot{
+	width: 100%;
+	text-align: center;
+}
+.uni-common-mt{
+	width: 100%;
+	height: 40px;
+}
+.uni-list-cell{
+	width: 100%;
+	height: 40px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.abd{
+	width: 30%;
+	height: 40px;
+	line-height: 40px;
+}
+.uni-list-cell-db{
+	width: 70%;
+	height: 40px;
+	line-height: 40px;
+}
+.uni-input{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	text-align: left;
+}
+
+
+

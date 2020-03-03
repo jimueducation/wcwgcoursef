@@ -1,0 +1,23 @@
+
+.vip_top{
+	width: 100%;
+	hyphenate-limit-lines: 25px;
+	line-height: 25px;
+	font-size: 16px;
+	text-align: center;
+	position: relative;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.vip_top_left{
+	position: absolute;
+	left: 0px;
+	width: 20px;
+	height: 25px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.vip_top_middle{
+	text-align: center;
+}
+

@@ -1,0 +1,15 @@
+
+.nobox{
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+}
+.warn_img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.nobox_btn{
+	margin-top: 10px;
+}
+

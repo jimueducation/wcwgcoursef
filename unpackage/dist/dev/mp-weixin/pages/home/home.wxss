@@ -1,0 +1,110 @@
+
+.logout{
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #4CD964;
+}
+.userinfo_back {
+	position: absolute;
+	top: -20px;
+	left: 0px;
+	color: #4CD964;
+}
+.user_set{
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	width: 20px;
+	height: 20px;
+}
+.loadchoose{
+	margin-top: 5px;
+	text-align: center;
+	width: 100%;
+}
+.userset{
+	color: #4CD964;
+	border-right: 1px solid #999999;
+	padding-right: 10px;
+	font-size: 14px;
+}
+.nopasload{
+	color: #4CD964;
+	margin-left: 10px;
+	font-size: 14px;
+}
+.homeBox{
+	margin-left: 10px;
+	margin-right: 10px;
+	position: relative;
+}
+.loadback{
+	font-size: 14px;
+	color: #4CD964;
+}
+.title_img_box{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.title_img{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+.username_box{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	position: relative;
+	background-color: #FFFFFF;
+}
+.username{
+	width: 80%;
+	height: 30px;
+	position: relative;
+	left: 30px;
+}
+.userimg{
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	left: 0px;
+	top: 8px;
+	z-index: 5;
+}
+.userpas_box{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	position: relative;
+	background-color: #FFFFFF;
+	margin-top: 3px;
+	margin-bottom: 20px;
+}
+.userpas{
+	width: 80%;
+	height: 30px;
+	position: relative;
+	left: 30px;
+}
+.userpas_img{
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	left: 0px;
+	top: 8px;
+	z-index: 5;
+}
+.userpas_set{
+	position: absolute;
+	font-size: 14px;
+	color: #4CD964;
+	right: 0px;
+	z-index: 5;
+	top: 0px;
+}
+

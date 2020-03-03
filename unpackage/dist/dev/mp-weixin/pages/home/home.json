@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/pages/index/components/uni-popup/uni-popup",
+    "loadok": "/pages/home/components/loadok",
+    "user-info": "/pages/home/components/userinfo"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "网创微课",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "sort": "/pages/index/components/sort",
+    "movenews": "/pages/index/components/movenews",
+    "hotnews": "/pages/index/components/hotnews",
+    "muststudy": "/pages/index/components/muststudy"
+  }
+}

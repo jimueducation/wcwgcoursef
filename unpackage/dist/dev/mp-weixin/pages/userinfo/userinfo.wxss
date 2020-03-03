@@ -1,0 +1,57 @@
+
+.userinfo_2_input {
+	width: 70%;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	font-size: 12px;
+}
+.userinfo_2_radio {
+	width: 70%;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	font-size: 12px;
+}
+.userinfo_2_txt {
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	width: 30%;
+}
+.userinfo_self_box {
+	width: 95%;
+	height: 30px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin: 0 auto;
+	border-bottom: 1px solid #999999;
+}
+.userinfo_box {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+.userinfo_1 {
+	width: 100%;
+	height: 50px;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+.userinfo_1_txt {
+	font-size: 12px;
+	float: left;
+	padding-left: 10px;
+	height: 50px;
+	line-height: 50px;
+}
+.userinfo_1_img {
+	width: 30px;
+	height: 30px;
+	padding-right: 10px;
+	float: right;
+	padding-top: 10px;
+}
+
